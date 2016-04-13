@@ -183,10 +183,15 @@ h1 {
 .bigImage {
 	background: url("../assets/featured.jpg") no-repeat;
 	height: 10em;
-	display: block;
-	margin: 0 auto;
+	text-align: center;
+	// display: block;
+	// margin: 0 auto;
 }
 
+.imageFooter {
+	height: 2em;
+	background: blue;
+}
 
 
 

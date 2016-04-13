@@ -8,7 +8,9 @@ import NavComponent2 from './components/NavComponent2.js';
 import JobRow from './components/JobRow.js';
 import InfoBox from './components/InfoBox.js';
 import CompanyBox from './components/CompanyBox.js';
-
+import UserModel from './models/UserModel.js';
+import JobModel from './models/JobModel.js';
+import CompanyModel from './models/CompanyModel.js';
 // import a module from another file.
 import tiy from './app.js';
 
